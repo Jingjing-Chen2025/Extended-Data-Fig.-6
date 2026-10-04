@@ -1,0 +1,5 @@
+figures/
+.Rhistory
+.Rproj.user/
+.DS_Store
+__pycache__/
